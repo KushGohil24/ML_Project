@@ -1,0 +1,166 @@
+{
+  "real": [
+    {
+      "word": "experience",
+      "score": 0.025516
+    },
+    {
+      "word": "team",
+      "score": 0.025313
+    },
+    {
+      "word": "work",
+      "score": 0.02507
+    },
+    {
+      "word": "company",
+      "score": 0.022079
+    },
+    {
+      "word": "service",
+      "score": 0.021586
+    },
+    {
+      "word": "customer",
+      "score": 0.020625
+    },
+    {
+      "word": "business",
+      "score": 0.020516
+    },
+    {
+      "word": "product",
+      "score": 0.018879
+    },
+    {
+      "word": "client",
+      "score": 0.018821
+    },
+    {
+      "word": "development",
+      "score": 0.018347
+    },
+    {
+      "word": "new",
+      "score": 0.017942
+    },
+    {
+      "word": "year",
+      "score": 0.017925
+    },
+    {
+      "word": "job",
+      "score": 0.017859
+    },
+    {
+      "word": "working",
+      "score": 0.017582
+    },
+    {
+      "word": "skill",
+      "score": 0.017528
+    },
+    {
+      "word": "amp",
+      "score": 0.017074
+    },
+    {
+      "word": "management",
+      "score": 0.016819
+    },
+    {
+      "word": "sale",
+      "score": 0.016673
+    },
+    {
+      "word": "looking",
+      "score": 0.016533
+    },
+    {
+      "word": "people",
+      "score": 0.015701
+    }
+  ],
+  "fraud": [
+    {
+      "word": "position",
+      "score": 0.032898
+    },
+    {
+      "word": "work",
+      "score": 0.031387
+    },
+    {
+      "word": "home",
+      "score": 0.029956
+    },
+    {
+      "word": "entry",
+      "score": 0.029773
+    },
+    {
+      "word": "data entry",
+      "score": 0.029211
+    },
+    {
+      "word": "skill",
+      "score": 0.026703
+    },
+    {
+      "word": "service",
+      "score": 0.025975
+    },
+    {
+      "word": "data",
+      "score": 0.02452
+    },
+    {
+      "word": "per",
+      "score": 0.024421
+    },
+    {
+      "word": "experience",
+      "score": 0.023143
+    },
+    {
+      "word": "customer",
+      "score": 0.023059
+    },
+    {
+      "word": "typing",
+      "score": 0.022116
+    },
+    {
+      "word": "internet",
+      "score": 0.021783
+    },
+    {
+      "word": "work home",
+      "score": 0.021679
+    },
+    {
+      "word": "needed",
+      "score": 0.021417
+    },
+    {
+      "word": "opportunity",
+      "score": 0.02083
+    },
+    {
+      "word": "company",
+      "score": 0.020628
+    },
+    {
+      "word": "apply",
+      "score": 0.020574
+    },
+    {
+      "word": "time",
+      "score": 0.020426
+    },
+    {
+      "word": "earn",
+      "score": 0.020421
+    }
+  ]
+}

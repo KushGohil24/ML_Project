@@ -1,0 +1,166 @@
+{
+  "random_forest": [
+    {
+      "feature": "has_company_logo",
+      "importance": 0.044309
+    },
+    {
+      "feature": "has_questions",
+      "importance": 0.012423
+    },
+    {
+      "feature": "missing_salary",
+      "importance": 0.011386
+    },
+    {
+      "feature": "salary_range_Unknown",
+      "importance": 0.009116
+    },
+    {
+      "feature": "req_len",
+      "importance": 0.008332
+    },
+    {
+      "feature": "required_education_Bachelor's Degree",
+      "importance": 0.008083
+    },
+    {
+      "feature": "data entry",
+      "importance": 0.008031
+    },
+    {
+      "feature": "team",
+      "importance": 0.007874
+    },
+    {
+      "feature": "scam_keyword_count",
+      "importance": 0.007193
+    },
+    {
+      "feature": "phone",
+      "importance": 0.007047
+    },
+    {
+      "feature": "required_experience_Unknown",
+      "importance": 0.007038
+    },
+    {
+      "feature": "employment_type_Full-time",
+      "importance": 0.006559
+    },
+    {
+      "feature": "skill",
+      "importance": 0.006294
+    },
+    {
+      "feature": "duty",
+      "importance": 0.006107
+    },
+    {
+      "feature": "desc_len",
+      "importance": 0.005956
+    },
+    {
+      "feature": "required_education_Unknown",
+      "importance": 0.005881
+    },
+    {
+      "feature": "clerk",
+      "importance": 0.005617
+    },
+    {
+      "feature": "required_experience_Mid-Senior level",
+      "importance": 0.005074
+    },
+    {
+      "feature": "encouraged",
+      "importance": 0.004949
+    },
+    {
+      "feature": "earn",
+      "importance": 0.004793
+    }
+  ],
+  "xgboost": [
+    {
+      "feature": "has_company_logo",
+      "importance": 0.05427
+    },
+    {
+      "feature": "encouraged",
+      "importance": 0.048075
+    },
+    {
+      "feature": "quality candidate",
+      "importance": 0.04163
+    },
+    {
+      "feature": "work home",
+      "importance": 0.030754
+    },
+    {
+      "feature": "highly technical",
+      "importance": 0.026727
+    },
+    {
+      "feature": "accuracy",
+      "importance": 0.019616
+    },
+    {
+      "feature": "required_experience_Mid-Senior level",
+      "importance": 0.019008
+    },
+    {
+      "feature": "required_education_High School or equivalent",
+      "importance": 0.015568
+    },
+    {
+      "feature": "leveraging",
+      "importance": 0.01536
+    },
+    {
+      "feature": "candidate encouraged",
+      "importance": 0.014689
+    },
+    {
+      "feature": "designed",
+      "importance": 0.014514
+    },
+    {
+      "feature": "data entry",
+      "importance": 0.01251
+    },
+    {
+      "feature": "required_experience_Unknown",
+      "importance": 0.012322
+    },
+    {
+      "feature": "new exciting",
+      "importance": 0.0121
+    },
+    {
+      "feature": "medium",
+      "importance": 0.011339
+    },
+    {
+      "feature": "owner",
+      "importance": 0.011086
+    },
+    {
+      "feature": "employment_type_Full-time",
+      "importance": 0.010817
+    },
+    {
+      "feature": "process provide",
+      "importance": 0.010664
+    },
+    {
+      "feature": "required_experience_Associate",
+      "importance": 0.010543
+    },
+    {
+      "feature": "operation",
+      "importance": 0.009864
+    }
+  ]
+}

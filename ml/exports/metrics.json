@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Logistic Regression",
+    "precision": 0.416,
+    "recall": 0.8728,
+    "f1": 0.5634,
+    "roc_auc": 0.9714,
+    "pr_auc": 0.7786,
+    "train_score": 0.9854,
+    "test_score": 0.5634,
+    "isBest": false
+  },
+  {
+    "name": "Decision Tree (overfit)",
+    "precision": 0.6522,
+    "recall": 0.7803,
+    "f1": 0.7105,
+    "roc_auc": 0.8796,
+    "pr_auc": 0.5195,
+    "train_score": 1.0,
+    "test_score": 0.7105,
+    "isBest": false
+  },
+  {
+    "name": "Decision Tree (tuned)",
+    "precision": 0.5037,
+    "recall": 0.7919,
+    "f1": 0.6157,
+    "roc_auc": 0.9127,
+    "pr_auc": 0.5691,
+    "train_score": 0.9683,
+    "test_score": 0.6157,
+    "isBest": false
+  },
+  {
+    "name": "KNN",
+    "precision": 0.1311,
+    "recall": 0.5549,
+    "f1": 0.2122,
+    "roc_auc": 0.7278,
+    "pr_auc": 0.177,
+    "train_score": 0.9789,
+    "test_score": 0.2122,
+    "isBest": false
+  },
+  {
+    "name": "SVM",
+    "precision": 0.9924,
+    "recall": 0.7514,
+    "f1": 0.8553,
+    "roc_auc": 0.9909,
+    "pr_auc": 0.9361,
+    "train_score": 1.0,
+    "test_score": 0.8553,
+    "isBest": true
+  },
+  {
+    "name": "Random Forest",
+    "precision": 0.9914,
+    "recall": 0.6647,
+    "f1": 0.7958,
+    "roc_auc": 0.9922,
+    "pr_auc": 0.9342,
+    "train_score": 1.0,
+    "test_score": 0.7958,
+    "isBest": false
+  },
+  {
+    "name": "Gradient Boosting",
+    "precision": 0.7738,
+    "recall": 0.7514,
+    "f1": 0.7625,
+    "roc_auc": 0.9821,
+    "pr_auc": 0.8371,
+    "train_score": 0.9999,
+    "test_score": 0.7625,
+    "isBest": false
+  },
+  {
+    "name": "XGBoost",
+    "precision": 0.9154,
+    "recall": 0.6879,
+    "f1": 0.7855,
+    "roc_auc": 0.9864,
+    "pr_auc": 0.8869,
+    "train_score": 0.9999,
+    "test_score": 0.7855,
+    "isBest": false
+  }
+]

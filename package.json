@@ -1,0 +1,16 @@
+{
+  "name": "fake-job-posting-detector",
+  "version": "1.0.0",
+  "description": "Full-stack ML system for detecting fraudulent job postings",
+  "scripts": {
+    "start": "./start.sh",
+    "seed": "cd server && node seed.js",
+    "train": "source ml/venv/bin/activate && python ml/src/train.py",
+    "service": "source ml/venv/bin/activate && uvicorn ml.service:app --port 8000 --reload",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev"
+  },
+  "keywords": ["machine-learning", "mern", "fake-job-detection", "nlp"],
+  "author": "College ML Project",
+  "license": "MIT"
+}
